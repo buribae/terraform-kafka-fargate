@@ -1,4 +1,4 @@
-# terraform-kafka-fargate #
+# terraform-msk-fargate #
 
 ### This terraform template creates:
 - AWS FARGATE cluster
